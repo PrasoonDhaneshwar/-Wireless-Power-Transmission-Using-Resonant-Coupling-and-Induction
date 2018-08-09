@@ -1,4 +1,4 @@
-# -Wireless-Power-Transmission-Using-Resonant-Coupling-and-Induction
+# Wireless-Power-Transmission-Using-Resonant-Coupling-and-Induction
 This is the paper which me and my 4 friends published during our Bachelors. This was part of last semester project.
 
 Somehow, the original link
